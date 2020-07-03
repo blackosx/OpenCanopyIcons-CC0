@@ -8,7 +8,7 @@ The idea is that a user can choose to select one or more icons from this collect
 
 Please note that the 'sets' here refer to the style of the design and are not complete sets of images that can be directly used in OpenCanopy's /Resources/Image directory. 
 
-[View the differences between the current sets](https://ibb.co/NLbPLvn)
+[View the differences between the current sets](https://i.ibb.co/zSDYSMH/Set1-Set2-Differences.jpg)
 
 For details about how to use these then please consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).
 
